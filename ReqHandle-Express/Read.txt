@@ -1,0 +1,1 @@
+Here we manage get and post requests in express JS.
